@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\liors\Documents\Coding projects\Wallpaper Engine\Another Wallpaper Engine\x64\Release\Another Wallpaper Engine.exe : fatal error LNK1120: 1 unresolved externals
