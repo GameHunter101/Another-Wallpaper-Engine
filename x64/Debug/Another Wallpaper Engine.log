@@ -1,1 +1,4 @@
-﻿  Another Wallpaper Engine.vcxproj -> C:\Users\liors\Documents\Coding projects\Wallpaper Engine\Another Wallpaper Engine\x64\Debug\Another Wallpaper Engine.exe
+﻿  Another Wallpaper Engine.cpp
+C:\Users\liors\Documents\Coding projects\Wallpaper Engine\Another Wallpaper Engine\Another Wallpaper Engine.cpp(293,17): warning C4244: 'initializing': conversion from 'LRESULT' to 'UINT', possible loss of data
+C:\Users\liors\Documents\Coding projects\Wallpaper Engine\Another Wallpaper Engine\Another Wallpaper Engine.cpp(102): warning C4715: 'get_gif_window': not all control paths return a value
+  Another Wallpaper Engine.vcxproj -> C:\Users\liors\Documents\Coding projects\Wallpaper Engine\Another Wallpaper Engine\x64\Debug\Another Wallpaper Engine.exe
